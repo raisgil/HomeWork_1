@@ -16,3 +16,7 @@ F
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+F
+src/main/java/hw8.java,9\7\97c99fa15de9f95777cd655495082f1317b2c4fa
+F
+src/main/java/hw7.java,6\4\64427bfa54b99ff3c5677d09e86f9fecf16e7cdb
