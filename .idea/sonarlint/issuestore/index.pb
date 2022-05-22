@@ -13,3 +13,6 @@ F
 src/main/java/hw4.java,1\d\1dc871246a8e4502f454afb938255867f1953a5b
 F
 src/main/java/hw5.java,7\9\79017186304f0a4acf9ccae02ed9cd3122c02fe4
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302

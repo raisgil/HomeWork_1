@@ -12,7 +12,7 @@ public class hw7 {
         for (int i = 0; i < w; i++) {
             numbers[i]= scanner.nextInt();
         }
-        int sum=0;
+        double sum=0; //исправил на тип double
         for (int j = 0; j < w; j++) {
             sum = sum + numbers[j];
         }
